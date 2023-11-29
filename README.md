@@ -1,4 +1,4 @@
-"# BulletSystem"
+# BulletSystem
 
 Custom linetraced solution for simulating bullets.
 A Bullet Manager is responsable for updating the location and direction of all bullets.
